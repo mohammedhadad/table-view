@@ -12,6 +12,7 @@
 		D99BA8511D4D1D1C00159F70 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99BA84F1D4D1D1C00159F70 /* Main.storyboard */; };
 		D99BA8531D4D1D1C00159F70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D99BA8521D4D1D1C00159F70 /* Assets.xcassets */; };
 		D99BA8561D4D1D1C00159F70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D99BA8541D4D1D1C00159F70 /* LaunchScreen.storyboard */; };
+		D99BA85E1D4D21A700159F70 /* CareRangeRoverTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99BA85D1D4D21A700159F70 /* CareRangeRoverTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D99BA8521D4D1D1C00159F70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D99BA8551D4D1D1C00159F70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D99BA8571D4D1D1C00159F70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D99BA85D1D4D21A700159F70 /* CareRangeRoverTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CareRangeRoverTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D99BA84B1D4D1D1C00159F70 /* AppDelegate.swift */,
 				D99BA84D1D4D1D1C00159F70 /* ViewController.swift */,
+				D99BA85D1D4D21A700159F70 /* CareRangeRoverTableViewController.swift */,
 				D99BA84F1D4D1D1C00159F70 /* Main.storyboard */,
 				D99BA8521D4D1D1C00159F70 /* Assets.xcassets */,
 				D99BA8541D4D1D1C00159F70 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				D99BA84E1D4D1D1C00159F70 /* ViewController.swift in Sources */,
 				D99BA84C1D4D1D1C00159F70 /* AppDelegate.swift in Sources */,
+				D99BA85E1D4D21A700159F70 /* CareRangeRoverTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
